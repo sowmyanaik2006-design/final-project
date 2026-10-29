@@ -1,0 +1,13 @@
+[
+  "tests/test_api.py::test_health",
+  "tests/test_api.py::test_model_info",
+  "tests/test_api.py::test_predict_invalid",
+  "tests/test_api.py::test_predict_valid",
+  "tests/test_api.py::test_root",
+  "tests/test_data_preparation.py::test_dataset_loads",
+  "tests/test_data_preparation.py::test_dataset_validation",
+  "tests/test_data_preparation.py::test_target_exists",
+  "tests/test_model.py::test_model_loads",
+  "tests/test_model.py::test_prediction",
+  "tests/test_model.py::test_prediction_schema"
+]
